@@ -1,0 +1,7 @@
+Final Fantasy X & X-2 HD Checksum Repair Utility
+===============
+Computes PS3 decrypted game save checksums for the aforementioned games. Heavily based upon the provided source code found here: http://forums.pcsx2.net/Thread-Celsius-FFX-2-Save-game-editor?pid=182634#pid182634
+
+The utility offers a passive resigning process via cmd line argument or drag & drop onto the exe as well as a simple GUI to navigate to the save file.
+
+The former will only inform the user of an error but will otherwise remain completely silent, this is to allow 3rd party applications to make use of it more easily.
